@@ -1,5 +1,6 @@
 # Ignore node_modules in the root directory
 node_modules/
+.env
 
 # Ignore node_modules in backend_sanity and frontend_React directories
 backend_sanity/node_modules/
